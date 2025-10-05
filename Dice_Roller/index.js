@@ -15,7 +15,7 @@ rollBtn.onclick = function() {
 
     const num = Math.floor(Math.random() * 6) + 1;
     values.push(num);
-    images.push(`<img src="/Js-mini-projects/Dice_Roller/Dice_images/${num}.png">`);
+    images.push(`<img src="/Dice_Roller/Dice_images/${num}.png">`);
 
   }
 
